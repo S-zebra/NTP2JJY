@@ -1,0 +1,33 @@
+
+A
+java:S1659"#Declare "bitLo" on a separate line.(¹‰…8Õìá¤¼.
+B
+java:S1659"$Declare "marker" on a separate line.(¹‰…8Õìá¤¼.
+A
+java:S1659"#Declare "bitHi" on a separate line.(¹‰…8Õìá¤¼.
+]	java:S110"<This class has 9 parents which is greater than 5 authorized.(óğ¢¢øÿÿÿÿ8µ«ÿŠ¼.
+u
+java:S1450"YRemove the "audioReady" field and declare it as a local variable in the relevant methods.(ª¸å/8Ç¬½¤¼.
+D
+java:S1659"(Declare "audioReady" on a separate line.(ª¸å/8î‹…¢¼.
+<
+java:S1640,"Convert this Map to an EnumMap.(¦¼¢8Ç¬½¤¼.
+E
+java:S1481N"(Remove this unused "sec" local variable.(—ÑÔ8ŠåÇ¥¼.
+]	java:S125d"<This block of commented-out lines of code should be removed.(‹Ç‡Çúÿÿÿÿ8óåª¤¼.
+]	java:S125["<This block of commented-out lines of code should be removed.(éôÖ†øÿÿÿÿ8ºÌª¤¼.
+J
+java:S1068".Remove this unused "audioReady" private field.(ª¸å/8Ç¬½¤¼.
+T
+java:S1854N"7Remove this useless assignment to local variable "sec".(—ÑÔ8ŠåÇ¥¼.
+W	java:S125}"<This block of commented-out lines of code should be removed.(¬”Å8İÅğ¤¼.
+]	java:S125O"<This block of commented-out lines of code should be removed.(áşìêıÿÿÿÿ8ŠåÇ¥¼.
+X	java:S125Q"<This block of commented-out lines of code should be removed.(ÓÓ­Ú8Ç¬½¤¼.
+T
+java:S1874."2Remove this use of "AudioTrack"; it is deprecated.(ãÓ§Èüÿÿÿÿ8Òí¡¤¼.
+L
+java:S1068"/Remove this unused "bufferArray" private field.(´â€·8ºÌª¤¼.
+w
+java:S1450"ZRemove the "bufferArray" field and declare it as a local variable in the relevant methods.(´â€·8ºÌª¤¼.
+]	java:S125v"<This block of commented-out lines of code should be removed.(Ã±—æøÿÿÿÿ8‰§¤¼.
+X	java:S125g"<This block of commented-out lines of code should be removed.(å‡½Ï8Í’°¤¼.
